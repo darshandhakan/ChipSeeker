@@ -7,5 +7,7 @@ The Steps to run this script are as follows:
 
 ## The inputs are:
  -b macs2 output directory containing the individual folders and their outputs
+ 
  -s sample_metadata table containg the name of the sample and the macs2 output file name
+ 
  -u If the Human hg38 or hg19 needs to be used
